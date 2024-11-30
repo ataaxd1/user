@@ -1,1 +1,8 @@
-ataa,ataaxd,ngetes
+{
+  "ataa": {
+    "role": "admin"
+  },
+  "revoerkey": {
+    "role": "member"
+  }
+}
