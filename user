@@ -1,3 +1,15 @@
 {
-  "gapi"
+  "gapi": {
+    "password": "admin",
+    "tempat_tinggal": "bdg",
+    "id": "1903595159",
+    "info_tambahan1": "nilai1",
+    "info_tambahan2": "nilai2"
+  },
+  "username2": {
+    "password": "password2",
+    "tempat_tinggal": "Surabaya",
+    "info_tambahan1": "nilai3",
+    "info_tambahan2": "nilai4"
+  }
 }
